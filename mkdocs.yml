@@ -7,3 +7,6 @@ nav:
 site_name: laminas-serializer
 site_description: "Serialize and deserialize PHP structures to a variety of representations"
 repo_url: 'https://github.com/laminas/laminas-serializer'
+extra:
+    project: Components
+    project_url: 'https://docs.laminas.dev'
